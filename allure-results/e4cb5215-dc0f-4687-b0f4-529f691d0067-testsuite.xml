@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1633542788541' stop='1633542820224'>
+    <name>Add Amazon Basics Product To The Cart</name>
+    <title>Add Amazon Basics Product To The Cart</title>
+    <test-cases>
+        <test-case start='1633542788542' status='passed' stop='1633542820222'>
+            <name>Add Product To Cart</name>
+            <title>Add Product To Cart</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

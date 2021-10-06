@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1633544026670' stop='1633544046946'>
+    <name>Searching For Course In Udemy</name>
+    <title>Searching For Course In Udemy</title>
+    <test-cases>
+        <test-case start='1633544026671' status='passed' stop='1633544046944'>
+            <name>Search For BDD Cucumber</name>
+            <title>Search For BDD Cucumber</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-94.0.4606.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
